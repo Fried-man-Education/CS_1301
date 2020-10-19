@@ -1,0 +1,43 @@
+Taco Bell
+Mexican
+Fast Food
+
+La Parilla
+Mexican
+Sit-down
+
+Cookout
+American
+Fast Food
+
+Olive Garden
+Italian
+Sit-down
+
+Gyro Bros
+Greek
+Fast Food
+
+McDonald's
+American
+Fast Food
+
+Panda Express
+Chinese
+Fast Food
+
+Wendy's
+American
+Fast Food
+
+Momonoki
+Japanese
+Sit-down
+
+Twisted Kitchen
+Italian
+Sit-down
+
+Chickfila
+American
+Fast Food
